@@ -1,5 +1,5 @@
-首先，到https://anaconda.org/的網站並點選右上角的下載
- 
+首先，到https://anaconda.org/ 的網站並點選右上角的下載
+ ![image](https://github.com/OreoKU/Crawler/blob/master/%E4%B8%8B%E8%BC%89%E9%A0%81.png)
 
 選擇需要的版本(這邊以Python 2.7 作範例)
  
