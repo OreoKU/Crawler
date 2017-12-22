@@ -49,7 +49,9 @@
 點選右上角” New ”，創建新的python檔
 ![image](https://github.com/OreoKU/Crawler/blob/master/Jupyter.png)
 
-到日職網站http://npb.jp/games/2017/schedule_11_detail.html，playbyplay的網頁複製網址(這裡以2017/11/4的比賽為例)
+到日職網站，playbyplay的網頁複製網址(這裡以2017/11/4的比賽為例)
+
+![image](https://github.com/OreoKU/Crawler/blob/master/%E7%B6%B2%E9%A0%81.png)
  
 將網址及程式碼放入執行列並按Shift + Enter執行
 
@@ -61,5 +63,7 @@
 ![image](https://github.com/OreoKU/Crawler/blob/master/%E8%B3%87%E6%96%99%E5%A4%BE%E6%88%AA%E5%9C%96.png)
  
 打開檔案看看是否有問題
+
+![image](https://github.com/OreoKU/Crawler/blob/master/xlsx.png)
 
 ![image]()
