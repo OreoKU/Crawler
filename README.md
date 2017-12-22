@@ -65,5 +65,3 @@
 打開檔案看看是否有問題
 
 ![image](https://github.com/OreoKU/Crawler/blob/master/xlsx.png)
-
-![image]()
