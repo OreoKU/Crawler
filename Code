@@ -3,7 +3,7 @@ import sys
 from bs4 import BeautifulSoup
 import requests
 url = 'http://npb.jp/scores/2017/1104/h-db-06/playbyplay.html'
-res = requests.get('http://npb.jp/scores/2017/1104/h-db-06/playbyplay.html')
+res = requests.get(url)
 res.encoding = 'utf-8'
 soup = BeautifulSoup(res.text)
 test1 = pandas.read_html(url)[3]
