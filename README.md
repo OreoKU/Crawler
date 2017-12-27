@@ -44,7 +44,7 @@
 
 啟動Jupyter NoteBook，會先跳出cmd，再自動開啟瀏覽器
 
-![image](https://github.com/OreoKU/Crawler/blob/master/Image/%E7%B6%B2%E9%A0%81%E6%88%AA%E5%9C%96.png)
+![image](https://github.com/OreoKU/Crawler-for-NPB/blob/master/Image/%E8%B5%B7%E5%A7%8B%E7%B6%B2%E9%A0%81.png)
  
 點選右上角” New ”，創建新的python檔
 ![image](https://github.com/OreoKU/Crawler/blob/master/Image/Jupyter.png)
