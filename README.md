@@ -60,7 +60,7 @@
 執行完到C:\Users\帳戶名的目錄底下就能找到剛剛執行輸出的檔案
 這邊用日期當作檔名(20171104.xlsx)
 
-![image](https://github.com/OreoKU/Crawler/blob/master/Image/%E8%B3%87%E6%96%99%E5%A4%BE%E6%88%AA%E5%9C%96.png)
+![image](https://github.com/OreoKU/Crawler-for-NPB/blob/master/Image/%E8%B3%87%E6%96%99%E5%A4%BE%E6%88%AA%E5%9C%96.png)
  
 打開檔案看看是否有問題
 
